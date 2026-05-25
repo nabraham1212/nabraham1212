@@ -37,7 +37,7 @@ GitHub · Replit · VS Code · Google Workspace · Wix
 
 | School | Program | Focus |
 |---|---|---|
-| Paradise Valley High School | CREST Computer Science Pathway | Computer Science, Cybersecurity, Networking, AI |
+| Paradise Valley High School | CREST Computer Science | Computer Science, Cybersecurity, Networking, AI |
 
 ## 📜 Certifications
 
