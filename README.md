@@ -46,8 +46,7 @@ GitHub · Replit · VS Code · PyCharm · Google Workspace
 - Anthropic — Building with the Claude API
 - Anthropic — AI Fluency for Students
 - Anthropic — Introduction to Model Context Protocol
-- TestOut — PC Pro / Network IT Essentials
-- TestOut — Routing and Switching Pro
+- TestOut — PC Pro
 - TestOut — Security Pro
 
 ## 📫 Let's Connect
